@@ -118,7 +118,7 @@ This project is part of academic research. Please cite appropriately if used in 
 
 ## 📧 Contact
 
-For questions or feedback, please contact: [your-email@example.com]
+For questions or feedback, please contact: amastrogiannopoulou@nyc.com
 
 ## 🙏 Acknowledgments
 
